@@ -1,0 +1,37 @@
+# AX - Agent Experience Design
+# How to design websites and web apps for AI agents.
+# UX is for humans. AX is for agents.
+
+## Overview
+> AX is the practice of designing your web presence so AI agents can
+> discover, understand, operate, and recover within it effectively.
+> Every website already has an agent experience. The question is whether
+> it's good or bad.
+
+## The 12 Principles
+- content/principles/01-agents-are-users.md
+- content/principles/02-structure-is-the-interface.md
+- content/principles/03-context-beats-prompting.md
+- content/principles/04-open-ecosystems-win.md
+- content/principles/05-every-action-needs-feedback.md
+- content/principles/06-recovery-is-mandatory.md
+- content/principles/07-discovery-is-part-of-the-product.md
+- content/principles/08-auth-is-experience.md
+- content/principles/09-memory-and-events.md
+- content/principles/10-trust-must-be-computable.md
+- content/principles/11-autonomy-must-be-bounded.md
+- content/principles/12-accessibility-for-agents.md
+
+## The 15 Primitives
+Building blocks of agent experience on the web:
+context, access, navigation, discovery, notifications, memory, identity,
+feedback, recovery, communication, autonomy, onboarding, social proof,
+orchestration, governance
+
+## Other Resources
+- content/anti-patterns.md: 25 things that break agent experience
+- content/metrics.md: 20 metrics for scoring AX quality (0-40 scale)
+- content/stack.md: 10-layer AX architecture
+- skill/SKILL.md: Installable agent skill for AX auditing
+- research/comprehensive-research.md: 22K word research foundation
+- research/agent-perspective.md: 12.5K word agent experience review
