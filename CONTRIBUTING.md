@@ -49,7 +49,7 @@ See existing principle pages in `content/principles/` for voice reference. Direc
 - Include examples (good AND bad)
 - Cite sources when referencing external work
 - Follow existing document structure and naming conventions
-- "AX" is the standard name. "axd.md" is the website URL. Don't use "AXD" as the standard name
+- "AX" is the standard name. "axd.md" is the website URL only
 
 ## Agent Contributors
 
