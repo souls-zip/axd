@@ -70,7 +70,7 @@ Output format:
 ```
 ## AX Audit Report: [System Name]
 
-### Score: [X]/30
+### Score: [X]/40
 
 ### Primitive Scores
 | Primitive | Score | Notes |
